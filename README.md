@@ -1,11 +1,12 @@
 ### Greetings!
+Professionally a Machine Learning Engineer with a background as Software Engineer currently studying Game Programming with focus on Unreal.
 
-Day: AI Programmer Intern at Dimfrost Studio.
-Night: Just started to look into Bevy and Rust.
-Current mission: Figure out how to utilize proper AI in Unreal.
-Common inner monologue: "Why the fc*k did that just happen?"
-Happy: When Linux 
-Sad: MS-DOS path separator
+Day: AI Programmer Intern at Dimfrost Studio. <br>
+Night: Just started to look into Bevy and Rust. <br>
+Current mission: Figure out how to utilize proper AI in Unreal. <br>
+Common inner monologue: "Why the fc*k did that just happen?". <br>
+Happy: When Linux ❤ <br>
+Sad: MS-DOS path separator. <br>
 
 
 <!--
@@ -23,13 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
-Day: AI Programmer Intern at Dimfrost Studio.
-Night: Just started to look into Bevy and Rust.
-Current mission: Figure out how to utilize proper AI in Unreal.
-Common inner monologue: "Why the fc*k did that just happen?"
-Happy: When Linux 
-Sad: MS-DOS path separator...
 
 
 
