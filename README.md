@@ -1,6 +1,5 @@
 ### Welcome to my humble establishment!
 
-#### Who 
 Professionally a Machine Learning Engineer with a background as a Software Engineer. <br>
 Studying Game Programming with focus on Unreal. <br>
 
