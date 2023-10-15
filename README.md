@@ -1,7 +1,7 @@
 ### Welcome to my humble establishment!
 
 Professionally a Machine Learning Engineer with a background as a Software Engineer. <br>
-Studying Game Programming with focus on Unreal. <br>
+Studying Game Programming with focus on Unreal, aiming to bridge the gap between gamedev and AI. <br>
 
 ☀ AI Programmer Intern at Dimfrost Studio. <br>
 🌙 Just started to look into Bevy and Rust. <br>
