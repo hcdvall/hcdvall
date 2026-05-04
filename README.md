@@ -1,7 +1,7 @@
 ### Welcome to my humble establishment!
 
-Professionally a Machine Learning Engineer with a background as a Software Engineer. <br>
-Tinkering with game programming in my spare time, aiming to bridge the gap between gamedev and AI. <br>
+Professionally a Machine Learning Engineer with a background in Software Engineering. <br>
+Tinkering with game development and my configs in my spare time.<br>
 <!--
 "I don't know who you are. 
 I don't know what you want. 
